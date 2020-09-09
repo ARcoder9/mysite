@@ -1,0 +1,99 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #056674;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #056674;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+}
+
+.top-container {
+  background-color: #e0ece4;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #f4f4f4;
+
+}
+.bottom-container{
+  background-color: #fcdab7;
+  position: relative;
+  padding-bottom: 20px;
+  padding-top: 20px
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile-img {
+  width: 23%;
+}
+.skills-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.data-img {
+  width: 25%;
+  float: right;
+}
+.agenda-img {
+  width: 16%;
+}
+.fb-img {
+  width: 4%;
+
+}
+.insta-img {
+  width: 4%
+}
+.twitter-img {
+  width: 4%
+}
+.webpage-img {
+  width: 4%
+}
+.mail-img {
+  width: 8%
+}
+.footer-link {
+  margin: 50px;
+}
+hr {
+  border-top-color: gold;
+  border-style: none;
+  border-top-style: dotted;
+  width: 25%;
+  border-width: 5px;
+  padding-bottom: : 15px;
+  padding-top: 15px;
